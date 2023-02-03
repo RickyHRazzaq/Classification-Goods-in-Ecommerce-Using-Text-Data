@@ -1,3 +1,3 @@
-# Data-Analytics-Portofolio
+# Classification Goods in Ecommerce Using Text Data
 
-This Repository is used to save and show all of Ricky's Data Analytics portfolio, including Machine Learning, Data Visualization, etc
+This Notebook contains model to classify goods in e-commerce using text data which is review data
